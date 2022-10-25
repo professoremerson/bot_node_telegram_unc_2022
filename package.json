@@ -18,6 +18,7 @@
   "homepage": "https://github.com/professoremerson/bot_node_telegram_unc_2022#readme",
   "dependencies": {
     "axios": "^1.1.2",
+    "moment": "^2.29.4",
     "telegraf": "^4.10.0"
   }
 }
