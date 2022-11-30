@@ -1,0 +1,61 @@
+{
+  "sessions": [
+    {
+      "id": "1351450134:1351450134",
+      "data": {
+        "counter": 4,
+        "lista": [
+          "Carne",
+          "Carvão",
+          "Bebida"
+        ],
+        "list": [
+          "Uva",
+          "Maçã",
+          "Laranja",
+          "Ameixa",
+          "Mimosa",
+          "Abacaxi"
+        ]
+      }
+    },
+    {
+      "id": "1450408708:1450408708",
+      "data": {
+        "list": [
+          "Aaaaaa"
+        ]
+      }
+    },
+    {
+      "id": "881632703:881632703",
+      "data": {
+        "list": [
+          "Quero uva",
+          "Maçã",
+          "Laranja",
+          "Couve flor",
+          "Abacaxi",
+          "Roma"
+        ]
+      }
+    },
+    {
+      "id": "5792995783:5792995783",
+      "data": {
+        "list": [
+          "a",
+          "Laranjinha"
+        ]
+      }
+    },
+    {
+      "id": "5593421462:5593421462",
+      "data": {
+        "list": [
+          "batata"
+        ]
+      }
+    }
+  ]
+}
