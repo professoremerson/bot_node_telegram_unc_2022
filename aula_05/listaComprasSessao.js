@@ -43,6 +43,14 @@ bot.on('text', ctx => {
   )
 })
 
+bot.action(/remove (.+)/, ctx => {
+  ctx.session.list = ctx.session.list.filter(item => item !== ctx.match[1])
+  ctx.reply(
+    `${ctx.match[1]} removido da lista!`,
+    itemsButtons(ctx.session.list)
+  )
+})
+
 /**
  * iniciando o 'polling' com o servidor
  * para verificar se há novas mensagens
